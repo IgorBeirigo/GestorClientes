@@ -1,0 +1,8 @@
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\obj\Debug\GestorClientes.csproj.AssemblyReference.cache
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\obj\Debug\GestorClientes.csproj.CoreCompileInputs.cache
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\bin\Debug\GestorClientes.exe.config
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\bin\Debug\GestorClientes.exe
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\bin\Debug\GestorClientes.pdb
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\obj\Debug\GestorClientes.exe
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\obj\Debug\GestorClientes.pdb
+C:\Users\igorf\source\repos\GestorClientes\GestorClientes\obj\Debug\GestorClientes.exe.config
